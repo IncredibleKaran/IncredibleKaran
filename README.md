@@ -1,7 +1,7 @@
 ![Banner](https://github.com/IncredibleKaran/IncredibleKaran/blob/main/banner-bg.gif)
 
 <h1 align="center">Hi there, I'm Karan 👋</h1>
-<h3 align="center">AI/ML Engineer & Data Scientist | Security Researcher | Open-Source Contributor | Web & Mobile Developer
+<h3 align="center">Full-Stack Technologist | Open-Source Contributor 
 
 Innovating with technology to solve real-world problems and advance the tech community.
 </h3>
