@@ -1,7 +1,10 @@
 ![Banner](https://github.com/IncredibleKaran/IncredibleKaran/blob/main/banner-bg.gif)
 
 <h1 align="center">Hi there, I'm Karan 👋</h1>
-<h3 align="center">I'm an Enthusiastic Student available for contributing to organizational success while developing new skills and gaining industrial experience. Positively impact operations with top-notch communication and problem solving skills.</h3>
+<h3 align="center">AI/ML Engineer & Data Scientist | Security Researcher | Open-Source Contributor | Web & Mobile Developer
+
+Innovating with technology to solve real-world problems and advance the tech community.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-hafeez&label=Profile%20views&color=0e75b6&style=flat" alt="neha-hafeez" /> </p>
 
