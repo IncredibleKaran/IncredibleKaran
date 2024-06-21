@@ -9,20 +9,20 @@ I'm a **Full Stack Engineer** passionate about bringing innovative ideas to life
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:code@karan.one">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:karanlalwani.dev@gmail.com">email.</a>
 - 💬 Curious? Just ask!
 
 <div class="badges-intro">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=#21759B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=#CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=#7952B3)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=#00599C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=#007396)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=#4EAA25)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=#0175C2)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=#02569B)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=google-cloud&logoColor=#4285F4)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=#FF9900)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
 
 </div>
