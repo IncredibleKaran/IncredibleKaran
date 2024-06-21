@@ -14,6 +14,9 @@ I'm a **Full Stack Engineer** passionate about bringing innovative ideas to life
 
 <div class="badges-intro">
 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=#00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=#007396)
