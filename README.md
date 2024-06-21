@@ -4,6 +4,7 @@
 - 📫 How to reach me **karanlalwani.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=incrediblekaran&show_icons=true&locale=en" alt="incrediblekaran" /></p>
 <p align="left">
 </p>
 
