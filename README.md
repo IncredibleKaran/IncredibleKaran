@@ -39,24 +39,24 @@ I'm a **Full Stack Engineer** passionate about bringing innovative ideas to life
   </p>
 </div>
 
-## 📃 I love documentation
+## 📃 Security Research and documentation
 
-Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. It's like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+Security research and documentation play a crucial role in safeguarding systems and data. Unlike many, I find joy in meticulously documenting security findings and protocols. A well-documented security approach is as vital as the implementation itself, serving as a narrative of potential vulnerabilities and their mitigation strategies. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
 
-Whenever I write documentation I try to keep in mind the following steps to make sure the reader gets the most out of it:
+Whenever I documenting security or any research, I try to keep in mind the following steps to make sure the reader gets the most out of it:
 
 ```markdown
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
+1. **What** is the vulnerability or security issue identified?
+2. **Why** is this security finding significant?
+3. **How** can stakeholders address and mitigate this security concern?
+4. **When** should these security measures be implemented or reviewed?
+5. **Who** are the stakeholders impacted by this security documentation?
 ```
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=#000000)
 
-### <p align="center">⚙️ My development environment </p>
+### <p align="center">⚙️ My Development Environment </p>
 
 > I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
 
